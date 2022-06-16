@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd 
 import numpy as np 
 
-core_hardcap = st.sidebar.number_input("CORE hardcap, 10000000")
+core_hardcap = st.sidebar.number_input("CORE hardcap", 10000000)
 input = 1 
 supply = 0 
 _price = []
