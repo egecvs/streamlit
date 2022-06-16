@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# -- Sheet --
 
 import streamlit as st 
 import pandas as pd 
